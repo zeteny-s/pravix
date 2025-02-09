@@ -1,0 +1,7 @@
+project_id = "dzmmujactfglppguhppm"
+
+[functions.time-entries]
+verify_jwt = true
+
+[functions.message-notifications]
+verify_jwt = true
